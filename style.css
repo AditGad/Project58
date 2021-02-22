@@ -1,0 +1,40 @@
+body{
+    text-align:center;
+    background:linear-gradient(#46a832 0%,#32a6a8 100%);
+    
+}
+h1{
+    color:yellow;
+    font-size:56px;
+}
+img{
+    border-radius:70%;
+    padding-bottom: 70px;
+    padding-top:70px;
+    padding-left:70px;
+    height: :400px;
+    width:400px;       
+}
+#something{
+    font-size:60px;
+}
+.menu{
+    list-style:none;
+    font-family:sans-serif;
+    position:absolute;
+    
+}
+.links{
+    color:#42f5b9;
+    font-size:20px;
+    
+    
+}
+.links:hover{
+    background-color: aquamarine;
+    font-size:40px;
+    color:antiquewhite;
+    font-family: Akaya Telivigala;
+    
+}
+
